@@ -20,8 +20,10 @@ Cek status filenya menggunakan perintah "git status"
 Misal "nano README.md"
 ![Screenshot (167)](https://user-images.githubusercontent.com/115516473/195754415-92ded94d-64d4-4b52-8486-5cd184441ca5.png)
 6. Gunakan perintah "git commit -m(komentar commit)" untuk menyimpan perubahan ke dalam reppository lokal.
-![Screenshot (170)](https://user-images.githubusercontent.com/115516473/195759862-b61c5172-b8ce-44b3-ac37-9fc997055273.png)
-7. Buat repository server menggunakan Github dengan klik ikon (+) lalu new repository. Sebelumnya buatlah akun agar bisa membuat repository.
-
-
+![Screenshot (170)](https://user-images.githubusercontent.com/115516473/195761233-985f664f-dfae-4048-be96-3263cac27d8c.png)
+7. Buatlah akun Github. Kemudian buat repository baru dengan mengisi nama repository di "Start a new repository" atau klik ikon (+) lalu pilih new repository.
+![Screenshot (172)](https://user-images.githubusercontent.com/115516473/195760882-db380992-6678-4c39-8df5-a3590dfc9bd6.png)
+8. Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
+![Screenshot (175)](https://user-images.githubusercontent.com/115516473/195762670-6c184825-caea-470a-b9c9-9766e100d938.png)
+9. 
 
