@@ -13,7 +13,8 @@ Kelas:TI.22.A3
 
 3. Buat direktori dengan perintah "mkdir" dan gunakan perintah "cd" untuk masuk ke direktorinya, lalu perintah "git init" untuk membuat repository lokal.
 
-![Screenshot (158)](https://user-images.githubusercontent.com/115516473/195729529-1f903c45-202b-4d78-9432-1da9a3b0d570.png)
+![Screenshot (197)](https://user-images.githubusercontent.com/115516473/195849717-7d6423bf-e64f-44a7-9ae1-ed9df6e583e6.png)
+
 
 4. Buat file readme menggunakan perintah "echo" atau bisa menggunakan perintah "git add(namefile)"
 ![Screenshot (162)](https://user-images.githubusercontent.com/115516473/195730670-b080a78b-57c2-4032-b29f-b0c7022c6828.png)
