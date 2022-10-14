@@ -19,6 +19,9 @@ Cek status filenya menggunakan perintah "git status"
 5. Jika ingin merubah suatu file, gunakan perintah "nano"
 Misal "nano README.md"
 ![Screenshot (167)](https://user-images.githubusercontent.com/115516473/195754415-92ded94d-64d4-4b52-8486-5cd184441ca5.png)
-Jika file tidak diisi atau diganti tulisannya akan seperti gambar diatas
-6. 
+6. Gunakan perintah "git commit -m(komentar commit)" untuk menyimpan perubahan ke dalam reppository lokal.
+![Screenshot (170)](https://user-images.githubusercontent.com/115516473/195759862-b61c5172-b8ce-44b3-ac37-9fc997055273.png)
+7. Buat repository server menggunakan Github dengan klik ikon (+) lalu new repository. Sebelumnya buatlah akun agar bisa membuat repository.
+
+
 
