@@ -25,5 +25,8 @@ Misal "nano README.md"
 ![Screenshot (172)](https://user-images.githubusercontent.com/115516473/195760882-db380992-6678-4c39-8df5-a3590dfc9bd6.png)
 8. Kembali ke Git Bash, lalu ketik perintah "git remmote add origin(URL) untuk menambahkan remote repository, yang akan digunakan untuk menyimpan setiap perubahan pada lokal repository agar bisa diakses oleh user lain.
 ![Screenshot (175)](https://user-images.githubusercontent.com/115516473/195762670-6c184825-caea-470a-b9c9-9766e100d938.png)
-9. 
+9. Cek repositorynya di Github
+![Screenshot (177)](https://user-images.githubusercontent.com/115516473/195763416-923e6c59-24b1-4739-9431-52dcad492831.png)
+10. Untuk menyalin Repository server gunakan perintah "git clone (url)"
+
 
