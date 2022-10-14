@@ -28,5 +28,8 @@ Misal "nano README.md"
 9. Cek repositorynya di Github
 ![Screenshot (177)](https://user-images.githubusercontent.com/115516473/195763416-923e6c59-24b1-4739-9431-52dcad492831.png)
 10. Untuk menyalin Repository server gunakan perintah "git clone (url)"
+![Screenshot (179)](https://user-images.githubusercontent.com/115516473/195764136-1a0410bf-12a9-4e38-b008-468227b7abb6.png)
+Seperti itulah langkah-langkah membuat git dan git hub nya.
+Sekian tutorial dari saya, mohon maaf bila ada kesalahan. Terima kasih.
 
 
